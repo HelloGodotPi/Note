@@ -9,3 +9,5 @@ https://we.tl/t-tsOB5JXU5t
 
 
 Conntect to Pi using VNC https://learn.adafruit.com/adafruit-raspberry-pi-lesson-7-remote-control-with-vnc/
+
+SSH Conneciton https://learn.adafruit.com/adafruits-raspberry-pi-lesson-6-using-ssh/overview
