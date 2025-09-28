@@ -14,3 +14,6 @@ SSH Conneciton https://learn.adafruit.com/adafruits-raspberry-pi-lesson-6-using-
 
 
 Note: Godot fonction bien sur Raspberry Pi 4 
+
+
+https://www.keyboardtester.com/tester.html
