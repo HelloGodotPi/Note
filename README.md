@@ -19,3 +19,6 @@ Note: Godot fonction bien sur Raspberry Pi 4
 https://www.keyboardtester.com/tester.html
 https://hardwaretester.com/gamepad
 https://gpadtester.com/
+
+
+You can make discord bot in Godot https://youtu.be/6IvuB1qwFpk
